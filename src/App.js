@@ -5,7 +5,7 @@ class App extends Component {
   state = {};
 
   render() {
-    return <div className={s.container}>goit-react-hw-03-image-finder</div>;
+    return <div className={s.container}>goit-react-hw-04</div>;
   }
 }
 
